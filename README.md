@@ -1,1 +1,1 @@
-//Dilarang copyright ya tot by Tio
+>Dilarang copyright ya tot by Tio
