@@ -8,7 +8,7 @@ https://replit.com/github/BOTCAHX/SCANMODULE
 
 
 >©2022
-Ini adalah modul scan kode QR dari BOTCAHBOTz 
+Ini adalah modul scan kode QR (ambil session.json)dari BOTCAHBOTz 
 Owner:Tio Permana
 Creator:Tio Permana
 
