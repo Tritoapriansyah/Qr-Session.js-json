@@ -2,10 +2,9 @@
 
 credits : Tio Permana
 
-Licensed under the  GPL-3.0 License;
-you may not use this file except in compliance with the License.
+Buat Para mastah Janga  di ketawain Soalnya masih Belajar.
 
-Whats bot - BotcahX
+SESSION BOT - BOTCAHBOTz
 */
 
 const chalk = require('chalk');
@@ -18,9 +17,9 @@ async function whatsAsena() {
 	conn.version = [2, 2143, 3];
 
 	conn.on('connecting', async () => {
-		console.log(`${chalk.green.bold('TIO')}${chalk.blue.bold('CROT')}
-${chalk.white.italic('TIO-SERString')}
-${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please wait.')}`);
+		console.log(`${chalk.green.bold('Tio')}${chalk.blue.bold('Permana')}
+${chalk.white.italic('TIO-String')}
+${chalk.blue.italic('ℹ️  Connecting ke Whatsapp lu... Tunggu bentar.')}`);
 	});
 
   conn.on('open', async () => {
@@ -39,26 +38,26 @@ ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please wait.')}`);
 			await conn.sendMessage(
 				conn.user.jid ,
 
-				'*⚠️ Please Do Not Share This Code With Anyone ' +
+				'*!! Ini Rahasia Jangan Sebar Kode ini ' +
 					conn.user.name +
-					'* ⚠️\n\n ʙʏ Tio',
+					'* !!\n\n by Tio-BOTCAHBOTz',
 				MessageType.text
 			);
 		} else {
 			await conn.sendMessage(
 				conn.user.jid,
-				'*⚠️ Please Do Not Share This Code With Anyone ' +
+				'*!! Ini Rahasia Jangan Sebar Kode ini ' +
 					conn.user.name +
-					'* ⚠️\n\n ʙʏ Tio',
+					'* !!\n\n by Tio-BOTCAHBOTz',
 				MessageType.text
 			);
 		}
 		console.log(
 			chalk.green.bold(
-				"SALIN SESI NYA BANH"
+				"SALIN SESI NYA BANG"
 			),
 			chalk.green.bold(
-				'PASTE DI KOLOM GITHUB NYA YA'
+				'PASTE DI KOLOM SESSI GITHUB NYA YA'
 			)
 		);
 		process.exit(0);
@@ -67,4 +66,4 @@ ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please wait.')}`);
 	await conn.connect();
 }
 
-whatsAsena();
+whatsApp();
