@@ -1,7 +1,8 @@
 </div>
 SCAN QR NYA LALU PASTE DI FILE SESSION
 
-> `SCAN QR` salin dan tempel session botcahx nya
+> `SCAN QR` Salin dan tempel session BOTCAHBOTZ nya
+Kode akan di kirim kepada nomor user juga cek pesan.
 
 LINK 1⬇️⬇️
 
