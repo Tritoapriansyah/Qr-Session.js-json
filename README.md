@@ -17,7 +17,6 @@ LINK 3⬇️⬇️
 ⬇️
  https://github.com/BOTCAHX/SCANMODULE
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BOTCAHX/yTEAM-DOGEBOT-update)
 
 ## `Saran Gua Pc/Laptop Buat scan Nya karena sering error `
 
