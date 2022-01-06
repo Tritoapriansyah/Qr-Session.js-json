@@ -1,3 +1,30 @@
+</div>
+SCAN QR NYA LALU PASTE DI FILE SESSION
+
+> `SCAN QR` salin dan tempel session botcahx nya
+
+LINK 1⬇️⬇️
+
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/ScanQr-by-Tio?v=1)
+
+ LINK 2⬇️⬇️
+ 
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)]https://replit.com/@tioclkp02/ScanQr-by-Tio#index.js)
+
+LINK 3⬇️⬇️
+
+```!KALO MASIH GAK BISA SCAN DI SANA SILAHKAN CODING SENDIRI DI REPLIT LINK GITHUB ADA DI SINI.```
+⬇️
+ https://github.com/BOTCAHX/SCANMODULE
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BOTCAHX/yTEAM-DOGEBOT-update)
+
+## `Saran Gua Pc/Laptop Buat scan Nya karena sering error `
+
+[![Run PC/LAPTOP on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/ScanQr-by-Tio#index.js)
+
+
+
 >Dilarang Ambil tanpa izin itu namanya nyuri.
 ©copyright Tio 2022
 >masih belajar coding jdi maaf klo error
