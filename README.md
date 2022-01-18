@@ -10,7 +10,7 @@ Kode akan di kirim kepada nomor user juga cek pesan.
 
 V3.7+
 
-A simple script that will enable you to download any tiktok video without watermark
+A simple script scan
 
 ## Warning
 
@@ -41,7 +41,7 @@ node .
 Owner:Tio Permana
 Creator:Tio Permana
 
-Bila terdapat eror atau tidak bisa di pakai hubungi owner nya langsung.l://username:password@host:port
+Bila terdapat eror atau tidak bisa di pakai hubungi owner nya langsung wa.me/6282221792667
 
 
 Bila Mau memperbaiki Bug silahkan hubungi saya di request
