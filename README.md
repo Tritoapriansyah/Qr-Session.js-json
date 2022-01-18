@@ -29,9 +29,10 @@ https://replit.com/github/BOTCAHX/ScanQr-botwea
 ```
 
 ##install
-
+```
 node .
-
+```
+<p align="center">
 <a href="https://ibb.co/jf05wGF"><img src="https://i.ibb.co/jf05wGF/Screenshot-31.png" alt="Screenshot-31" border="0"></a>
 
 `©2022`
