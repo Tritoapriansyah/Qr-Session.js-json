@@ -15,8 +15,8 @@ async function whatsAsena() {
 
 	conn.on('connecting', async () => {
 		console.log(`${chalk.green.bold('Tio')}${chalk.blue.bold('Permana')}
-${chalk.white.italic('TIO-String')}
-${chalk.blue.italic('ℹ️  Connecting ke Whatsapp lu... Tunggu bentar.')}`);
+${chalk.white.italic('TIO-Bot')}
+${chalk.blue.italic('⏳  Connecting ke Whatsapp lu... Tunggu bentar.')}`);
 	});
 
   conn.on('open', async () => {
@@ -50,11 +50,11 @@ ${chalk.blue.italic('ℹ️  Connecting ke Whatsapp lu... Tunggu bentar.')}`);
 			);
 		}
 		console.log(
-			chalk.green.bold(
-				"SALIN SESI NYA BANG"
+			chalk.red.bold(
+				"Salin sesi ini!!"
 			),
-			chalk.green.bold(
-				'PASTE DI KOLOM SESSI GITHUB NYA YA'
+			chalk.red.bold(
+				'Paste di file session bot lu ya..'
 			)
 		);
 		process.exit(0);
