@@ -36,7 +36,8 @@ node .
 <a href="https://ibb.co/jf05wGF"><img src="https://i.ibb.co/jf05wGF/Screenshot-31.png" alt="Screenshot-31" border="0"></a>
 
 `©2022`
-Ini adalah repo scan kode QR (ambil session.json)dari BOTCAHBOTz 
+~~~
+  Ini adalah repo scan kode QR (ambil session.json)dari BOTCAHBOTz 
 Owner:Tio Permana
 Creator:Tio Permana
 
@@ -44,3 +45,4 @@ Bila terdapat eror atau tidak bisa di pakai hubungi owner nya langsung.l://usern
 
 
 Bila Mau memperbaiki Bug silahkan hubungi saya di request
+~~~
