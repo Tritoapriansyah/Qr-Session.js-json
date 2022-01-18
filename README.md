@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/LPbHTfL/nsfwdoge.jpg?format=jpg&name=900x900" alt="Xeon" width="170" />
+<a href="https://ibb.co/NpX1j11"><img src="https://i.ibb.co/NpX1j11/donasi.jpg" alt="donasi" border="0"></a>
 </div>
 
 ## Repositori Qr
