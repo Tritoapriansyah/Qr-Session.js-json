@@ -27,6 +27,10 @@ Scan nya.
 buka replit terus import github dengan link ini.
 https://replit.com/github/BOTCAHX/ScanQr-botwea
 
+##install
+
+node .
+
 
 `©2022`
 Ini adalah repo scan kode QR (ambil session.json)dari BOTCAHBOTz 
