@@ -23,7 +23,7 @@ Scan nya.
 
 ```
 buka replit terus import github dengan link ini.
-https://replit.com/github/BOTCAHX/ScanQr-by-Tio
+https://replit.com/github/BOTCAHX/ScanQr-botwea
 
 
 `©2022`
