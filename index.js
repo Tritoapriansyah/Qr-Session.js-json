@@ -1,9 +1,6 @@
 /* Codded by @Tio
-
-credits : Tio Permana
-
+Credits : Tio Permana
 Buat Para mastah Janga  di ketawain Soalnya masih Belajar.
-
 SESSION BOT - BOTCAHBOTz
 */
 
