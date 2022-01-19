@@ -30,9 +30,9 @@ buka replit terus import github dengan link ini.
 https://replit.com/github/BOTCAHX/ScanQr-botwea
 ```
 
-```
 ```install```
 
+```
 > npm i
 > node .
 ```
