@@ -25,13 +25,13 @@ Scan nya.
 
 ## Mengunakan Bahasa pemrograman node.js
 
+
+##Buka replit terus import github dengan link ini
 ```
-buka replit terus import github dengan link ini.
-https://replit.com/github/BOTCAHX/ScanQr-botwea
+> https://replit.com/github/BOTCAHX/ScanQr-botwea
 ```
 
-```install```
-
+##install replit
 ```
 > npm i
 > node .
