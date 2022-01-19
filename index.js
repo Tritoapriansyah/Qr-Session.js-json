@@ -14,9 +14,9 @@ async function whatsAPP() {
 	conn.version = [2, 2143, 3];
 
 	conn.on('connecting', async () => {
-		console.log(`${chalk.green.bold('Tio')}${chalk.blue.bold('Permana')}
+		console.log(`${chalk.green.bold('Tio')}${chalk.blue.bold('_Permana')}
 ${chalk.white.italic('TIO-Bot')}
-${chalk.blue.italic('⏳ Connecting ke Whatsapp lu... Tunggu bentar.')}`);
+${chalk.blue.italic('⏳ Menghubungkan ke Whatsapp... Tunggu bentar:-)')}`);
 	});
 
   conn.on('open', async () => {
@@ -37,7 +37,7 @@ ${chalk.blue.italic('⏳ Connecting ke Whatsapp lu... Tunggu bentar.')}`);
 
 				'*!! Ini Rahasia Jangan Sebar Kode ini ' +
 					conn.user.name +
-					'* !!\n\n by Tio-BOTCAHBOTz',
+					'* !!\n\n by TioxBOTCAHBOTz',
 				MessageType.text
 			);
 		} else {
@@ -45,7 +45,7 @@ ${chalk.blue.italic('⏳ Connecting ke Whatsapp lu... Tunggu bentar.')}`);
 				conn.user.jid,
 				'*!! Ini Rahasia Jangan Sebar Kode ini ' +
 					conn.user.name +
-					'* !!\n\n by Tio-BOTCAHBOTz',
+					'* !!\n\n by TioxBOTCAHBOTz',
 				MessageType.text
 			);
 		}
