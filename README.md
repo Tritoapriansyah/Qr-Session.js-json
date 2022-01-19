@@ -31,7 +31,8 @@ https://replit.com/github/BOTCAHX/ScanQr-botwea
 ```
 
 ```
-##install
+```install```
+
 > npm i
 > node .
 ```
