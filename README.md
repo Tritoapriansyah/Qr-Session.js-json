@@ -2,8 +2,7 @@
 <a href="https://ibb.co/NpX1j11"><img src="https://i.ibb.co/NpX1j11/donasi.jpg" alt="donasi" border="0"></a>
 </div>
 
-##Instan run replit
-
+```Run instan```
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/ScanQr-botwea-4#index.js)
 ## Repositori Qr
 
@@ -41,7 +40,7 @@ https://replit.com/github/BOTCAHX/ScanQr-botwea
 
 `©2022`
 
-  _
+ ```
   Ini adalah repo scan kode QR (ambil session.json)dari BOTCAHBOTz 
 Owner:Tio Permana
 Creator:Tio Permana
@@ -50,4 +49,4 @@ Bila terdapat eror atau tidak bisa di pakai hubungi owner nya langsung wa.me/628
 
 
 Bila Mau memperbaiki Bug silahkan hubungi saya di request
-_
+```
