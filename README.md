@@ -26,12 +26,13 @@ Scan nya.
 ## Mengunakan Bahasa pemrograman node.js
 
 
-##Buka replit terus import github dengan link ini
+## Buka replit terus import github dengan link ini
+
 ```
 > https://replit.com/github/BOTCAHX/ScanQr-botwea
 ```
 
-##install replit
+## install replit
 ```
 > npm i
 > node .
@@ -40,14 +41,8 @@ Scan nya.
 <a href="https://ibb.co/jf05wGF"><img src="https://i.ibb.co/jf05wGF/Screenshot-31.png" alt="Screenshot-31" border="0"></a>
 
 `©2022`
-
- ```
-  Ini adalah repo scan kode QR (ambil session.json)dari BOTCAHBOTz 
-Owner:Tio Permana
-Creator:Tio Permana
-
-Bila terdapat eror atau tidak bisa di pakai hubungi owner nya langsung wa.me/6282221792667
-
-
+```
+ ## made by Tio
+ 
 Bila Mau memperbaiki Bug silahkan hubungi saya di request
 ```
