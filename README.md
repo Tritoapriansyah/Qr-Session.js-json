@@ -44,5 +44,5 @@ Scan nya.
 ```
  ## made by Tio
  
-Bila Mau memperbaiki Bug silahkan hubungi saya di WA 082221677926
+Bila Mau memperbaiki Bug silahkan hubungi saya di WA 08222167792667
 ```
