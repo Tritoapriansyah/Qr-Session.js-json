@@ -1,1 +1,2 @@
-/Gatau mau isi apa
+language = "nodejs"
+run = "npm start"
