@@ -8,7 +8,7 @@ const chalk = require('chalk');
 const { WAConnection, MessageType } = require('@adiwajshing/baileys');
 const fs = require('fs');
 
-async function whatsAsena() {
+async function whatsAPP() {
 	const conn = new WAConnection();
 	conn.logger.level = 'warn';
 	conn.version = [2, 2143, 3];
@@ -16,7 +16,7 @@ async function whatsAsena() {
 	conn.on('connecting', async () => {
 		console.log(`${chalk.green.bold('Tio')}${chalk.blue.bold('Permana')}
 ${chalk.white.italic('TIO-Bot')}
-${chalk.blue.italic('⏳  Connecting ke Whatsapp lu... Tunggu bentar.')}`);
+${chalk.blue.italic('⏳ Connecting ke Whatsapp lu... Tunggu bentar.')}`);
 	});
 
   conn.on('open', async () => {
@@ -63,4 +63,4 @@ ${chalk.blue.italic('⏳  Connecting ke Whatsapp lu... Tunggu bentar.')}`);
 	await conn.connect();
 }
 
-whatsAsena();
+whatsAPP();
