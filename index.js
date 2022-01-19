@@ -51,7 +51,7 @@ ${chalk.blue.italic('⏳ Menghubungkan ke Whatsapp... Tunggu bentar:-)')}`);
 		}
 		console.log(
 			chalk.red.bold(
-				"Salin sesi ini!!"
+				"Salin sesi ini!!!!"
 			),
 			chalk.red.bold(
 				'Paste di file session bot lu ya..'
