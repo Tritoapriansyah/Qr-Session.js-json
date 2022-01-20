@@ -1,1 +1,2 @@
-worker : npm i && node .
+language = "nodejs"
+run = "node ."
