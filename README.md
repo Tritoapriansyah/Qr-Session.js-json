@@ -39,8 +39,8 @@ Scan nya.
 ```
 
 `©2022`
-```
- ## made by Tio
- 
-Bila Mau memperbaiki Bug silahkan hubungi saya di WA 08222167792667
-```
+
+ _made with <3 by Tio_
+ _BOTCAHBOTz_
+_Bila Mau memperbaiki Bug silahkan hubungi saya di WA 08222167792667_
+
