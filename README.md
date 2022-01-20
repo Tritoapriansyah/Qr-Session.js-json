@@ -9,31 +9,24 @@
 
 ## Repositori Qr
 
-Repo ini berfungsi untuk mendapatkan session
-`SCAN QR` Salin dan tempel session BOTCAHBOTZ nya
-Kode akan di kirim kepada nomor user juga cek pesan.
+ Ini berfungsi untuk mendapatkan session
+`SCAN QR` "Salin dan tempel session BOTCAHBOTZ nya,"
+Kode Session akan di kirim kepada nomor User (Nomor Anda) Maka cek pesan Bot.
 
-V3.7+
-
+V3.7+ Nodejs
 A simple script scan
-
 ## Warning
-
 ```
 Dilarang Ambil tanpa izin itu namanya nyuri.
 ©copyright Tio 2022
->masih belajar coding jdi maaf klo error
+> Masih Belajar Coding jadi Maaf Kalo error
 Scan nya.
 ```
-
 ## Mengunakan Bahasa pemrograman node.js
-
-
 ## Buka replit terus import github dengan link ini
-
-```
+ Jika ingin Run Sendiri Di replit Maka Import link di bawah ini di replit
 > https://replit.com/github/BOTCAHX/ScanQr-botwea
-```
+
 
 ## install Termux/rdp/vps/dll
 ```
@@ -43,7 +36,6 @@ Scan nya.
 > npm update
 > node .
 ```
-
 
 `©2022`
 ```
