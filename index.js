@@ -15,7 +15,7 @@ async function whatsAPP() {
 
 	conn.on('connecting', async () => {
 		console.log(`${chalk.green.bold('Tio')}${chalk.blue.bold('_Permana')}
-${chalk.white.italic('TIO-Bot')}
+${chalk.white.italic('by-Tio')}
 ${chalk.blue.italic('⏳ Menghubungkan ke Whatsapp... Tunggu bentar:-)')}`);
 	});
 
