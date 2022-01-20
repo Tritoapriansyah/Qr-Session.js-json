@@ -32,7 +32,7 @@ Scan nya.
 ## install Termux/rdp/vps/dll
 ```
 > git clone https://github.com/BOTCAHX/ScanQr-botwea
-> cd https://github.com/BOTCAHX/ScanQr-botwea
+> cd ScanQr-botwea
 > npm install
 > npm update
 > node .
