@@ -35,9 +35,12 @@ Scan nya.
 > https://replit.com/github/BOTCAHX/ScanQr-botwea
 ```
 
-## install replit
+## install Termux/rdp/vps/dll
 ```
-> git clone
+> git clone https://github.com/BOTCAHX/ScanQr-botwea
+> cd https://github.com/BOTCAHX/ScanQr-botwea
+> npm install
+> npm update
 > node .
 ```
 
