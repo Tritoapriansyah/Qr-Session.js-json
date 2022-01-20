@@ -10,7 +10,8 @@
 ## Repositori Qr
 
  Ini berfungsi untuk mendapatkan session
-`SCAN QR` "Salin dan tempel session BOTCAHBOTZ nya,"
+ 
+`SCAN QR` "Salin dan tempel session nya,"
 Kode Session akan di kirim kepada nomor User (Nomor Anda) Maka cek pesan Bot.
 
 V3.7+ Nodejs
