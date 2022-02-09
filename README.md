@@ -2,7 +2,7 @@
 <a href="https://ibb.co/NpX1j11"><img src="https://i.ibb.co/NpX1j11/donasi.jpg" alt="donasi" border="0"></a>
 </div>
 
-### BOTCAHX Stat
+### Stat
 ![Ra Github stat](https://github-readme-stats.vercel.app/api?username=BOTCAHX&theme=midnight-purple&show_icons=true) 
 
 ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=BOTCAHX&theme=monokai)
