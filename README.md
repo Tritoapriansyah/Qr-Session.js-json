@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://ibb.co/NpX1j11"><img src="https://i.ibb.co/NpX1j11/donasi.jpg" alt="donasi" border="0"></a>
+<a href="https://ibb.co/NpX1j11"><img src="https://telegra.ph/file/0088e2bb81373fa6d9e9e.png" alt="donasi" border="0"></a>
 </div>
 
 ### Stat
