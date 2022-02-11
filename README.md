@@ -4,7 +4,7 @@
 
 ```Run instan```
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/ScanQr-botwea-10#index.js)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/ScanQr-botwea-10#.github/FUNDING.yml)
 
 ## Repositori Qr
 
