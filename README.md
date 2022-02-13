@@ -46,8 +46,8 @@ Scan nya.
 ![Ra Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BOTCAHX&theme=tokyonight)
 
 
-
- _made with <3 by Tio_
- BOTCAHX\n
-_Bila Mau memperbaiki Bug silahkan hubungi saya di WA 082221792667_
-
+```
+ Made with <3 by Tio
+ BOTCAHX
+Bila Mau memperbaiki Bug silahkan hubungi saya di WA 082221792667
+```
