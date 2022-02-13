@@ -48,6 +48,6 @@ Scan nya.
 
 
  _made with <3 by Tio_
- BOTCAHX
-_Bila Mau memperbaiki Bug silahkan hubungi saya di WA 08222167792667_
+ BOTCAHX\n
+_Bila Mau memperbaiki Bug silahkan hubungi saya di WA 082221792667_
 
