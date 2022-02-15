@@ -43,8 +43,6 @@ Scan nya.
 
 ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=BOTCAHX&theme=monokai)
 
-![Ra Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BOTCAHX&theme=tokyonight)
-
 
 ```
  Made with <3 by Tio
