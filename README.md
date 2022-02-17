@@ -23,7 +23,8 @@ Dilarang Ambil tanpa izin itu namanya nyuri.
 © copyright Tio 2022
 - Masih Belajar Coding jadi Maaf Kalo error
 Scan nya.
-a
+- Error/Bug lapor creator wa.me/6282221792667
+
 ## Mengunakan Bahasa pemrograman node.js
 ## Buka replit terus import github dengan link ini
  Jika ingin Run Sendiri Di replit Maka Import link di bawah ini di replit
