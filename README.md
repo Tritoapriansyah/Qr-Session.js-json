@@ -45,7 +45,7 @@ Scan nya.
 
 
 ```
- Made with <3 by Tio
- BOTCAHX
-Bila Mau memperbaiki Bug silahkan hubungi saya di WA 082221792667
+- Made with <3 by Tio
+- BOTCAHX
+- Bila Mau memperbaiki Bug silahkan hubungi saya di WA 082221792667
 ```
