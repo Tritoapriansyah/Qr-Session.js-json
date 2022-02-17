@@ -1,3 +1,5 @@
+![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=BOTCAHX&theme=monokai)
+
 <div align="center">
 <a href="wa.me/6282221792667"><img src="https://telegra.ph/file/0088e2bb81373fa6d9e9e.png" alt="donasi" border="0"></a>
 </div>
@@ -16,12 +18,12 @@ Kode Session akan di kirim kepada nomor User (Nomor Anda) Maka cek pesan Bot.
 V3.7+ Nodejs
 A simple script scan
 ## Warning
-```
+
 Dilarang Ambil tanpa izin itu namanya nyuri.
-©copyright Tio 2022
-> Masih Belajar Coding jadi Maaf Kalo error
+© copyright Tio 2022
+- Masih Belajar Coding jadi Maaf Kalo error
 Scan nya.
-```
+a
 ## Mengunakan Bahasa pemrograman node.js
 ## Buka replit terus import github dengan link ini
  Jika ingin Run Sendiri Di replit Maka Import link di bawah ini di replit
@@ -40,9 +42,6 @@ Scan nya.
 `©2022`
 ### Stat
 ![Ra Github stat](https://github-readme-stats.vercel.app/api?username=BOTCAHX&theme=midnight-purple&show_icons=true) 
-
-![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=BOTCAHX&theme=monokai)
-
 
 ```
 - Made with <3 by Tio
