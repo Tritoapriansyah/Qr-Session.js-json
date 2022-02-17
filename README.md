@@ -13,8 +13,8 @@
 
  Ini berfungsi untuk mendapatkan session
  
-`SCAN QR` "Salin dan tempel session nya,"
-Kode Session akan di kirim kepada nomor User (Nomor Anda) Maka cek pesan Bot.
+`SCAN QR` "Salin dan tempel session nya,
+" Kode Session akan di kirim kepada nomor User (Nomor Anda) Maka cek pesan Bot."
 
 V3.7+ Nodejs
 A simple script scan
@@ -22,7 +22,7 @@ A simple script scan
 
 Dilarang Ambil tanpa izin itu namanya nyuri.
 
-© copyright Tio 2022
+© copyright 2021-2022
 - Masih Belajar Coding jadi Maaf Kalo error
 Scan nya.
 - Error/Bug lapor creator wa.me/6282221792667
