@@ -26,9 +26,9 @@ Scan nya.
 - Error/Bug lapor creator wa.me/6282221792667
 
 ## Mengunakan Bahasa pemrograman node.js
-## Buka replit terus import github dengan link ini
- Jika ingin Run Sendiri Di replit Maka Import link di bawah ini di replit
-> https://replit.com/github/BOTCAHX/ScanQr-botwea
+- Buka replit terus import github dengan link ini
+- Jika ingin Run Sendiri Di replit Maka Import link di bawah ini di replit
+- https://replit.com/github/BOTCAHX/ScanQr-botwea
 
 
 ## install Termux/rdp/vps/dll
