@@ -21,6 +21,7 @@ A simple script scan
 ## Warning
 
 Dilarang Ambil tanpa izin itu namanya nyuri.
+
 © copyright Tio 2022
 - Masih Belajar Coding jadi Maaf Kalo error
 Scan nya.
