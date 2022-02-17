@@ -5,7 +5,7 @@
 </div>
 
 ```Run instan```
-- Masuk link ini agar run instan repositori ini.
+- Masuk link di bawah untuk run instan repositori ini.
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/ScanQr-botwea-10#.github/FUNDING.yml)
 
