@@ -35,8 +35,8 @@ Scan nya.
 
 ## install Termux/rdp/vps/dll
 ```
-> git clone https://github.com/BOTCAHX/ScanQr-botwea
-> cd ScanQr-botwea
+> git clone https://github.com/BOTCAHX/QR-SESSION-BOT
+> cd QR-SESSION-BOT
 > npm install
 > npm update
 > node .
