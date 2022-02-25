@@ -35,8 +35,8 @@ Scan nya.
 
 ## install Termux/rdp/vps/dll
 ```
-> git clone https://github.com/BOTCAHX/QR-SESSION-BOT
-> cd QR-SESSION-BOT
+> git clone https://github.com/BOTCAHX/QR-Session.js-json
+> cd QR-Session.js-json
 > npm install
 > npm update
 > node .
