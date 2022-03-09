@@ -9,8 +9,7 @@ const {
   { banner, start, success } = require('./lib/functions'),
   { color } = require('./lib/color')
 require('./index.js')
-nocache('./index.js', module => console.log( ${module} + ' Telah Di Update\u2713')
-)
+nocache('./index.js', module => console.log( ${module} + ' Telah Di Update✓'))
 const starts = async (tio = new WAConnection()) => {
   tio.logger.level = 'warn'
   tio.version = [2, 2143, 8]
