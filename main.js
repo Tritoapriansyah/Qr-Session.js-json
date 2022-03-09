@@ -11,12 +11,12 @@ const {
 require('./index.js')
 nocache('./index.js', module => console.log( ${module} + ' Telah Di Update\u2713')
 )
-const starts = async (kontol = new WAConnection()) => {
-  kontol.logger.level = 'warn'
-  kontol.version = [2, 2143, 8]
-  kontol.browserDescription = ['Tio Official', 'safari', 'windows 8']
+const starts = async (tio = new WAConnection()) => {
+  tio.logger.level = 'warn'
+  tio.version = [2, 2143, 8]
+  tio.browserDescription = ['Tio Official', 'safari', 'windows 8']
   console.log(banner.string)
-  kontol.on('qr', () => {
+  tio.on('qr', () => {
     console.log(
       color('[', 'white'),
       color('!', 'red'),
@@ -25,19 +25,19 @@ const starts = async (kontol = new WAConnection()) => {
     )
   })
   fs.existsSync('./session.json') && kontol.loadAuthInfo('./session.json')
-  kontol.on('connecting', () => {
+  tio.on('connecting', () => {
     start('2', 'Connecting...')
   })
-  kontol.on('open', () => {
+  tio.on('open', () => {
     success('2', 'Connected')
   })
-  await kontol.connect({ timeoutMs: 30000 })
+  await tio.connect({ timeoutMs: 30000 })
   fs.writeFileSync(
     './session.json',
     JSON.stringify(kontol.base64EncodedAuthInfo(), null, '\t')
   )
-  kontol.on('chat-update', async (mek) => {
-    require('./index.js')(kontol, mek)
+  tio.on('chat-update', async (message) => {
+    require('./index.js')(tio, message)
   })
 }
 function nocache(module, cb = () => { }) {
